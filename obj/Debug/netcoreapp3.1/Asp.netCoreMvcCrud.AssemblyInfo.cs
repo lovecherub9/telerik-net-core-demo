@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("bd28dd61-2a0f-4fd5-a4be-0b9c9358ec5c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp.netCoreMvcCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
